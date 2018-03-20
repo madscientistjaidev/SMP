@@ -1,9 +1,6 @@
-# SMP
-Sensor Mesh Protocol
+# Sensor Mesh Protocol
 
-Mirror of https://github.com/df424/CS544Group10
-
-Created as part of our Computer Networks Course by  -
+Created as part of the graduate-level Computer Networks course at Drexel University by  -
   Mike Wilson         mnw34@drexel.edu
   Jugal Lodaya        jjl354@drexel.edu
   David Flanagan      d.l.flanagan01@gmail.com
@@ -14,5 +11,3 @@ This protocol is intended as a lightweight UDP based protocol for streaming sens
 The essential idea behind it is the separation of the control and data communications into separate planes with different topologies.
 
 The detailed design document can be found in PDF format on this repository.
-
-I intend to eventually produce a Java implementation, although I may be prevented from doing so by time constraints.
